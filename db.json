@@ -23,55 +23,5 @@
     "account_id": "38.143.221.56",
     "token_id": "1kRDMRdR2uG8qaVNVwwnwKQ215ZVzfUux",
     "limit": 35
-  },
-  {
-    "account_id": "188.217.171.44",
-    "token_id": "1FTt7u6cNREwtpewTg63Xr8s471RT8GPnQ",
-    "limit": 24
-  },
-  {
-    "account_id": "207.4.19.117",
-    "token_id": "1AHJQsVvjW7qYuWVPdcH1VKL5SLFch5fAP",
-    "limit": 62
-  },
-  {
-    "account_id": "97.144.53.107",
-    "token_id": "16UkHjGJnjktxS91hbn26CDLwK6oSnJTzU",
-    "limit": 19
-  },
-  {
-    "account_id": "102.236.115.172",
-    "token_id": "1BmDHyHTSrDAmcRLpdUD1cVqUXzvBzHwgY",
-    "limit": 10
-  },
-  {
-    "account_id": "112.110.252.81",
-    "token_id": "1ESdZxSWkSyWnb1L3kC4Fo1JGmWXc9BRT1",
-    "limit": 41
-  },
-  {
-    "account_id": "21.43.105.54",
-    "token_id": "1MGkPafR9JPQWoH1LR36f48rrh2Zpn2cWC",
-    "limit": 35
-  },
-  {
-    "account_id": "198.127.172.105",
-    "token_id": "1Swv4N9EEfyJyViCjPaPV2jv1n1juidKA",
-    "limit": 12
-  },
-  {
-    "account_id": "212.51.74.179",
-    "token_id": "1M5VKeKsRMbpjA8NnQYDFDNdw6ngAGBTXg",
-    "limit": 14
-  },
-  {
-    "account_id": "17.170.177.49",
-    "token_id": "1CkEHu6LjW4GVU6xnix1niqunFJ4u6sLmf",
-    "limit": 18
-  },
-  {
-    "account_id": "171.7.140.235",
-    "token_id": "1KEpds8nkz2xHVSdtfuV6FjojQK2PDTVDK",
-    "limit": 100
   }
 ]
